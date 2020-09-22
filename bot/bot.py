@@ -29,4 +29,4 @@ async def on_message(message): # 입력되는 메세지에서 찾기
         await message.channel.send("```cpp\n명령어 리스트\n\n.전투력 측정 (기갑 [*3.0]) (포병[*4.0]) (보병 [*1.0]) (해상 [*1.0]) (공중 [*2.5])\n\n- 이때 소괄호 안에 있는 수는 4자리에 맞춰저 있어야 합니다. (ex. 0001)```")
 
 
-client.run('NzU3NDI1NDUzNjcyOTU1OTQ1.X2gNbA.CttTKiomVI-YWzjpfUuJJOE5Tnk')
+client.run('TOKEN_HERE')
